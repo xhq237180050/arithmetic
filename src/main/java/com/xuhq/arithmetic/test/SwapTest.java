@@ -5,7 +5,7 @@ package com.xuhq.arithmetic.test;
  * @Date: 2019/6/26 14:31
  * @Description: 测试交换
  */
-public class TestSwap {
+public class SwapTest {
 
     /**
      * 测试函数
